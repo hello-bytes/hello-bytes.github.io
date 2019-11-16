@@ -4,7 +4,7 @@ logo: logo.png # image from https://www.flickr.com/photos/lwr/5496279831/in/set-
 email: aaron.s.china@outlook.com
 description: > # this means to ignore newlines until "url:"
   Hello Bytes is a technology blog.
-url: "https://www.hellobytes.cn" # the base hostname & protocol for your site
+url: "https://hellobytes.cn" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 twitter_username: hello-bytes
 github_username:  hello-bytes

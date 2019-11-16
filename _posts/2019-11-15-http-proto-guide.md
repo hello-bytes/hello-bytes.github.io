@@ -2,7 +2,6 @@
 layout: post
 title:  "Http协议解析"
 date:   2019-02-24 20:14:47
-image: http_1.gif
 ---
 
 Http协议是一个基于TCP/IP 的协议，使用的是一种请求/响应模型
