@@ -9,6 +9,7 @@ Golang在国内无法访问这个应该并不陌生，比如想配置一个`go m
 设置环境变量：http_proxy，https_proxy即可。
 
 示例如下：
+
 ```
 # http://127.0.0.1:8081为真实的代理地址
 export set http_proxy=http://127.0.0.1:8081
