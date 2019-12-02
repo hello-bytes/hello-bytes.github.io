@@ -2,7 +2,7 @@
 layout: post
 title: "香山50公里越野"
 image: xiangshan-50-medal.jpeg
-header-style: text
+subtitle: '记录第一次雪中越野赛，独特体验值得拥有。'
 tags:
   - Life
 
