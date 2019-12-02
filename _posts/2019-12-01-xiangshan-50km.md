@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "香山50公里越野"
-image: xiangshan-50-medal.jpeg
+header-img: "/img/post/2019-xiangshan-50km/xiangshan-50-medal.jpeg"
 subtitle: '记录第一次雪中越野赛，独特体验值得拥有。'
 tags:
   - Life
@@ -23,7 +23,7 @@ tags:
 
 ## 奖牌
 
-![](/content/images/xiangshan-50-medal.jpeg)
+![](/img/post/2019-xiangshan-50km/xiangshan-50-medal.jpeg)
 
 ## 分析，复盘
 
