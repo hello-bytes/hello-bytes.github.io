@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "给SHELL设置代理"
-video: false
+tags:
+  - SHELL
+  - 代理
 ---
 
 Golang在国内无法访问这个应该并不陌生，比如想配置一个`go mobile`的环境，使用`go get golang.org/x/mobile/cmd/gomobile`时，就会因为golang.org被Block的原因失败。如果此时刚好有可以连上golang.org的代理，则事情就变得简单了。

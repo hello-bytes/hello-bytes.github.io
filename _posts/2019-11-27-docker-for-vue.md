@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "使用Docker部署VUE框架开发的网站"
-video: false
+tags:
+  - Docker
+  - vue
 ---
 
 vue开的发网站，如果不使用服务端渲染的话，就是一些HTML，以及在用户侧（浏览器）执行的脚本。这种情况下，服务器侧只需要部署一个最简单的HTTP文件服务就好。
