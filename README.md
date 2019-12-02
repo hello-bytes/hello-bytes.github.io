@@ -1,7 +1,9 @@
-# HelloBytes.cn
+# HuxBlog Boilerplate
 
-思绪来得书，去得快。
+##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
 
-经过这里的时候落下来，形成文字。
+#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
 
-以此记录这匆匆的岁月，我拿时间换了啥。
+#### [View Live Hux Blog &rarr;](http://huangxuan.me)
+
+## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!

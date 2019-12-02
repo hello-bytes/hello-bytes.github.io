@@ -1,36 +1,22 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body class="{{ page.body_class }}">
+<!-- hack iOS CSS :active style -->
+<body ontouchstart="">
+
+    {% include nav.html %}
 
     {{ content }}
 
-    {{ if site.logo}}
-    <a href="{{ site.baseurl | prepend: site.url }}" id="blog_badge">
-            <span style="background-image:
-            url('{{ site.baseurl }}/assets/images/{{ site.logo }}');">{{ site.name }}</span>
-        </a>
-    {{/if}}
+    {% include footer.html %}
 
-    <script>
-      function no_schema_links () {
-        var links = document.querySelectorAll('.js-remove-domain-schema');
-        if (links) {
-          for (i = 0; i < links.length; ++i) {
-            var link = links[i],
-              text = link.innerHTML,
-            no_schema = text.replace(/.*?:\/\//g, "");
-            link.innerHTML = no_schema;
-          }
-        }
-      }
 
-      window.onload = function () {
-        no_schema_links();
-      }
-    </script>
-  </body>
+<!-- Image to hack wechat -->
+<img src="/img/icon_wechat.png" width="0" height="0" />
+<!-- Migrate from head to bottom, no longer block render and still work -->
+
+</body>
 
 </html>
