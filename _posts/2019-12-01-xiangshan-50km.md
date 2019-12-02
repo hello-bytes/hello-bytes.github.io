@@ -2,6 +2,7 @@
 layout: post
 title: "香山50公里越野"
 image: xiangshan-50-medal.jpeg
+header-style: text
 
 ---
 

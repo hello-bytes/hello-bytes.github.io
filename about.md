@@ -4,5 +4,9 @@ title: About
 permalink: /about/
 ---
 
+- Aaron写字的地方
+- 使用的语言：c/c++，golang，php，java，object-c等。
+- 开发的软件：移动端，服务端后台，网站前端
+
 ## 思绪飘来飘去，在这里形成快照。
 
