@@ -7,6 +7,8 @@ tags:
   - 读书笔记
 ---
 
+![原则](https://codingsky.oss-cn-hangzhou.aliyuncs.com/cdn/hellobytes/img/principles.jpeg)
+
 本书是桥水基金创始人分享的经验，关于自己的处理原则，做事方式，及如何管理公司的一些原则。
 
 孤陋寡闻，通过《原则》才了解到了桥水基金，这个全球最赚钱的对冲基金，其本人财富也进入全美前30。
