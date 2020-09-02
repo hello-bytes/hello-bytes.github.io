@@ -4,6 +4,7 @@ title: "在centos上安装docker"
 subtitle: ''
 tags:
   - 笔记
+  - centos使用
 ---
 
 依次运行以下命令：
