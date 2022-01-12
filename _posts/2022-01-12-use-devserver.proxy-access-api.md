@@ -1,4 +1,13 @@
-# 使用devServer的proxy功能访问服务端
+---
+layout: post
+title: "使用devServer的proxy功能访问服务端"
+subtitle: ''
+tags:
+  - Vue
+  - devServer
+  - 跨域
+---
+
 
 
 > 前后端分离的技术方案下，后端仅需提供相应的API，网页作为客户端直接访问相应接口以完成业务功能。
